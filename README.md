@@ -21,3 +21,5 @@ WLAN & Blutooth: BCM94360CD或BCM943602CS（无线网卡请先不要安装在主
 OpenCore Version: 0.6
 
 SMBIOS: iMac19,1
+
+#If these help you, please like or commend it. I ❤️ You
