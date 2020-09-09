@@ -22,4 +22,4 @@ OpenCore Version: 0.6
 
 SMBIOS: iMac19,1
 
-#If these help you, please like or commend it. I ❤️ You
+#If these help you, please star✨ or commend👍 it. I ❤️ You
