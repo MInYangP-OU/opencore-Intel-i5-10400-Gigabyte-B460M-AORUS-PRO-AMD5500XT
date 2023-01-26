@@ -1,5 +1,5 @@
 # opencore0.8.8-Intel-i5-10400-Gigabyte-B460M-AORUS-PRO-AMD5500XT
-## 技嘉B460M_AORUS-PRO+Intel-i5-10040+华擎5500XT8GB （OpenCore 0.8.8  macos Ventura 13.1）
+#### 技嘉B460M_AORUS-PRO+Intel-i5-10040+华擎5500XT8GB （OpenCore 0.8.8  macos Ventura 13.1）
 My Build set（Prefect OS）：
 OS: macos Ventura 13.1 (22C65)
 CPU: Intel Core i5-10400
@@ -21,5 +21,5 @@ OpenCore Version: 0.8.8
 
 SMBIOS: iMac20,1
 
-#If these help you, please star✨ or commend👍 it. I ❤️ You
-## MacOS 10.15\11\12 OTA update 13,is OK! 
+## If these help you, please star✨ or commend👍 it. I ❤️ You
+#### MacOS 10.15\11\12 OTA update 13,is OK! 
